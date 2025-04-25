@@ -1,0 +1,10 @@
+fastapi 
+uvicorn
+transformers>=4.30
+torch>=1.13
+huggingface-hub>=0.15
+spacy 
+pydantic
+python-dotenv
+spacy
+trafilatura
