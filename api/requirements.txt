@@ -8,3 +8,4 @@ pydantic
 python-dotenv
 spacy
 trafilatura
+google-genai==1.5.0
