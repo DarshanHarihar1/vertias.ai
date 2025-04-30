@@ -3,3 +3,4 @@
 /frontend/node_modules
 /api/__pycache__
 /frontend/build
+/routes/__pycache__
