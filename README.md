@@ -1,7 +1,7 @@
 # Veritas.ai
 
-> A lightweight, web-based fact-checker for sports news claims.  
-> Deployed on Vercel: https://vertias-aii.vercel.app/
+- A lightweight, web-based fact-checker for sports news claims.  
+- Deployed on Vercel -> https://vertias-aii.vercel.app/
 
 ![App Screenshot](./screenshot.png)  
 
