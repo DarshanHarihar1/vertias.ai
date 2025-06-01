@@ -22,7 +22,7 @@
 
 - **Backend**: FastAPI (Python 3.8+), Uvicorn, Pydantic  
 - **Frontend**: Next.js (React), Tailwind CSS (or custom CSS)  
-- **Scraping/NLP**: `requests`, `BeautifulSoup4`, simple rule-based checks  
+- **Scraping/NLP**: `requests`, `Serp API`
 - **Deployment**: Vercel (Frontend + FastAPI serverless functions)
 
 ---
