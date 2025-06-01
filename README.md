@@ -14,7 +14,7 @@
 - **See Justification**: A concise explanation.  
 - **View Sources**: URLs consulted during verification.
 
-> Support for non-sports news coming soon.
+- **Support for non-sports news coming soon.**
 
 ---
 
