@@ -20,8 +20,8 @@
 
 ## Tech Stack
 
-- **Backend**: FastAPI (Python 3.8+), Uvicorn, Pydantic  
-- **Frontend**: Next.js (React), Tailwind CSS (or custom CSS)  
+- **Backend**: FastAPI (Python), Uvicorn, Pydantic  
+- **Frontend**: Next.js (React), Tailwind CSS 
 - **Scraping/NLP**: `requests`, `Serp API`
 - **Deployment**: Vercel (Frontend + FastAPI serverless functions)
 
